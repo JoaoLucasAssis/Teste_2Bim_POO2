@@ -2,9 +2,6 @@ import express from 'express';
 import LanceRoute from './routes/LanceRoute';
 import LeilaoRoute from './routes/LeilaoRoute';
 import UsuarioRoute from './routes/UsuarioRoute';
-// import AlunoRoute from './routes/AlunoRoute';
-// import ProfessorRoute from './routes/ProfessorRoute';
-// import GrupoRoute from './routes/GrupoRoute';
 
 export default class App {
 
